@@ -74,7 +74,7 @@ for (let i = 0; i < team.length; i++) {
         </div>
     </div>`
 
-    console.log(cardDiv)
+    //console.log(cardDiv)
     document.querySelector(".row").insertAdjacentHTML("beforeend", cardDiv);
 
 }
