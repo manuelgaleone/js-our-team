@@ -61,13 +61,15 @@ for (let i = 0; i < team.length; i++) {
     //console.log(teamMemb);
 
     let cardDiv = `
-    <div class="card card_team col-4 border_team">
-        <div class="team_element margin_left_right_auto py-3">
-            <img class="img_team margin_left_right_auto" src="${teamMemb.Image}">
-            </img>
-            <h3 class="text-center">${teamMemb.name}
+    <div class="card_team col-4 py-3">
+        <img class="img_team margin_left_right_auto" src="${teamMemb.Image}">
+        </img>
+        <div class="card_elements py-3">
+            <h3 class="text-center">
+                ${teamMemb.name}
             </h3>
-            <p class="text-center">${teamMemb.Role}
+            <p class="text-center">
+                ${teamMemb.Role}
             </p>
         </div>
     </div>`

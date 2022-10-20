@@ -1,3 +1,7 @@
+.main_content {
+    background-color: rgb(244, 244, 244);
+}
+
 .main_title {
     font-size: 20px;
 }
@@ -8,15 +12,10 @@
 
 .img_team {
     max-width: 100%;
-    width: 250px;
+    width: 600px;
 }
 
-.margin_left_right_auto {
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.border_team {
-    border: none;
-    border: 1px solid black;
+.card_elements {
+    background-color: white;
+    font-family:'Times New Roman', Times, serif
 }
