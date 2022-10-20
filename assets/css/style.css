@@ -5,3 +5,18 @@
 .main_caption {
     font-size: 15px;
 }
+
+.img_team {
+    max-width: 100%;
+    width: 250px;
+}
+
+.margin_left_right_auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.border_team {
+    border: none;
+    border: 1px solid black;
+}
