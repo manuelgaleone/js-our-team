@@ -13,3 +13,4 @@ Ogni membro è caratterizzato dalle seguenti informazioni: nome, ruolo e foto.
     
     BONUS 2: Organizzare i singoli membri in card/schede
 */
+
